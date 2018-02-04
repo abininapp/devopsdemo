@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>devopsdemo</artifactId>
-	<version>1.6.0-SNAPSHOT</version>
+	<version>1.6.0</version>
 	<packaging>war</packaging>
 
 	<name>devopsdemo</name>
@@ -42,7 +42,7 @@
 		  <connection>scm:git:git@github.com:abininapp/devopsdemo.git</connection>
 		  <developerConnection>scm:git:git@github.com:abininapp/devopsdemo.git</developerConnection>
 		  <url>git@github.com:abininapp/devopsdemo.git</url>
-		  <tag>HEAD</tag>
+		  <tag>v1.6.0</tag>
 	</scm>
 
 	<dependencies>
